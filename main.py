@@ -1,5 +1,5 @@
 from datetime import datetime
-from random import randint, choice
+from random import randint
 from collections import defaultdict
 
 
